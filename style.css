@@ -13,8 +13,8 @@ header {
 display: none;
 }
 
-.fw-feed-item .fw-item {
+.fw-feed-item{
 	margin: 0 0 0px 0;
-	padding: 5px;
+	padding: 10px 0;
 	clear: both;
 }
