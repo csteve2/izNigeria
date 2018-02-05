@@ -1,0 +1,16 @@
+#fw-container {
+ text-align: left;
+ font-family: 'Noto Sans', Helvetica, sans-serif;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	border: 0px solid #CCCCCC;
+}
+
+.fw-feed-title {
+	margin: 0 0 7px 0;
+	padding: 0 0 7px 0;
+	border-bottom: 1px dashed #CCCCCC;
+	clear: both;
+}
