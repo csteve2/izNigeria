@@ -9,11 +9,11 @@
 	border: 0px solid #CCCCCC;
 }
 
-#header {
+header {
 display: none;
 }
 
-.fw-feed-item {
+.fw-feed-item .fw-item {
 	margin: 0 0 0px 0;
 	padding: 5px;
 	clear: both;
